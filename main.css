@@ -11,7 +11,7 @@ body {
 }
 
 body {
-    background-color: turquoise;
+    background-color: olivedrab;
 }
 
 a {
@@ -61,7 +61,7 @@ a:hover {
     outline: none;
     border: none;
     background-color: #409623;
-    color: orangered;
+    color: black;
     cursor: pointer;
 }
 
